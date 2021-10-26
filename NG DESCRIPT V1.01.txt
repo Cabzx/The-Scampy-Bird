@@ -1,0 +1,25 @@
+---
+
+Update version. It is now easier to navigate the rocks and removed the out of screen exploit.
+
+V1.01
+
+---
+
+
+
+The bird must avoid the rocks. Use the up and down arrow keys to control the movement of the bird. Try to get the highest score by surviving for as long as you can. The bird will always face left, that is intentional.
+
+
+
+Resources for the game from itch.io by authors:
+
+Hearts: VampireGirl
+
+Fanfares: Teknajade
+
+SFX: Fallen Blood
+
+Backgrounds: Ansimuz
+
+Bird Sprite: Pixel Frog

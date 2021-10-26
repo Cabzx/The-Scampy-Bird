@@ -1,0 +1,27 @@
+# SConstruct db
+*.dblite
+
+# Godot Serialisations
+api.json
+
+# Visual Studio Cache
+.vs/
+
+# VSCode Cache
+.vscode/
+
+# Mac stuff
+.DS_Store
+
+# Binaries
+build/
+*.obj
+
+# Godot
+.import/
+*.translation
+export_presets.cfg
+.mono/
+Export/
+addons/
+demo/
